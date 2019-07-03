@@ -1,7 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 lang: en
-title: Just the Docs
-description: A Jekyll theme for documentation
+title: Stastic editor
+description: Test of Stastic to admin a Jekyll theme
 baseurl: /ubiquitous_maintenance_engineering/
 permalink: pretty
 exclude:
